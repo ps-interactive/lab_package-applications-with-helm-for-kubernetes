@@ -1,0 +1,1 @@
+Sample MySQL helm chart for PluralSight
